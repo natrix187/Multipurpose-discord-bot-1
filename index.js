@@ -1,3 +1,11 @@
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => res.send('Bot Discord en ligne !'));
+app.listen(process.env.PORT || 3000, () => {
+  console.log(`Serveur web lancé sur le port ${process.env.PORT || 3000}`);
+});
+
 /**********************************************************
  * @INFO  [TABLE OF CONTENTS]
  * 1  Import_Modules
@@ -11,7 +19,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: TOMato6966 | https://milrato.eu
+ *   BOT CODED BY: Natrix | https://milrato.eu
  *********************************************************/
 
 
