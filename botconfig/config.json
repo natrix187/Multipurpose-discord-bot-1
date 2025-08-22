@@ -9,9 +9,9 @@
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "By: Natrix.dev",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": " Best creators Natrix"
     },
     "clientsettings": {
         "nodes": [
