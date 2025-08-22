@@ -1,5 +1,5 @@
 {
-  "name": "clan_bot",
+  "name": "Shiba2",
   "version": "11.0.0",
   "description": "A Discord Bot made by: natrix187#0000",
   "main": "index.js",
@@ -54,7 +54,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "Natrix",
   "license": "MIT",
   "repository": {
     "type": "git",
